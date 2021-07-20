@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Distributed System Design learning
+title: Designing Distributed Data Platform
 
 # Your name to show in the footer
 author: Gsoni
@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "gaurav_soni.github.io"
+  Author's home: "gsoni22.github.io"
 
 # --- Logo --- #
 
