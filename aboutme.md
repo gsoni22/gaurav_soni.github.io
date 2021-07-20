@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About me
+title: Gsoni
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+This is my first page which i have created
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I work at walmart Labs and core team member of Apache Software Foundation
 
 What else do you need?
 
