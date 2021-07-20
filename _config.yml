@@ -9,12 +9,12 @@
 title: Designing Distributed Data Platform
 
 # Your name to show in the footer
-author: Gsoni
+author: Gaurav Soni
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "About Gsoni"
+  About Me: "About Gaurav Soni"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -40,14 +40,15 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "gaurav.soni226@gmail.com"
+  github: gsoni22
 #   facebook: deanattali
-#   github: daattali
+  # github: daattali
 #   twitter: daattali
 #   patreon: DeanAttali
 #   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: "https://www.linkedin.com/in/gaurav-soni-007/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
